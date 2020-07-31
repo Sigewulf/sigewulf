@@ -12,7 +12,7 @@ Front-End developer with a touch of server-side flavor and a passion to create s
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="48" width="48">&nbsp;&nbsp;
     <img src="https://vuejs.org/images/logo.png" height="48" width="48">&nbsp;&nbsp;
     <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="48" width="48">&nbsp;&nbsp;
-    <img style="background-color: #333333; border-radius: 4px; padding: 0 5px" src="https://nodejs.org/static/images/logo.svg" height="48" width="48">&nbsp;&nbsp;
+    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="48" width="">&nbsp;&nbsp;
     <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" height="48" width="">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" height="48" width="48">&nbsp;&nbsp;
 </p>
