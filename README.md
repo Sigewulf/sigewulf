@@ -17,14 +17,6 @@ Front-End developer with a touch of server-side flavor and a passion to create s
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" height="48" width="48">&nbsp;&nbsp;
 </p>
 
-#### Currently working on...
-- **blogfolio** (continuous)
-    - My personal portfolio and blog website that is statically generated in Nodejs and hosted here on [Github Page](https://krabfishstudios.com)
-- **giamedical-website**
-    - A full featured website for GIA Medical. [Github Repo](https://github.com/giamedical/giamedical-website) | Temporay LP [giamedical.com](https://giamedical.com)
-- **covid-19-tracker**
-    - Reworking the project to better reflect new skills and best practices. [Github Page](https://krabfish.github.io/covid-19-tracker)
-
 #### Contact Me
 
 As a freelance developer I am alway's looking for new and exciting career oppurtunities. Contact me on these platforms...
@@ -35,16 +27,10 @@ As a freelance developer I am alway's looking for new and exciting career oppurt
 <a href="https://linkedin.com/in/krabfish"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="48" width="48"></a>
 </p>
 
-##### Other places I can be found...
-<p align="left">
-<a href="https://www.freecodecamp.org/krabfish"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" height="48" width="48"></a>&nbsp;&nbsp;
-<a href="https://ie-sd.slack.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg" height="48" width="48"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/MKN-dev-LINUX"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" height="48" width="48"></a>
-</p>
 
 #### Stats
-<img src="https://komarev.com/ghpvc/?username=krabfish" alt="krabfish" />
+<img src="https://komarev.com/ghpvc/?username=mneumann-dev" alt="mneumann-dev" />
 
-![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=krabfish&show_icons=true)
+![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=mneumann-dev&show_icons=true)
 
 ## Thanks for stopping bye! 👋🏻
