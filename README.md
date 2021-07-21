@@ -21,14 +21,14 @@ Front-End developer with a touch of server-side flavor and a passion to create s
 As a freelance developer I am alway's looking for new and exciting career oppurtunities. Contact me on these platforms...
 
 <p align="left">
-<a href="https://twitter.com/mneumann_dev"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="48" width="48"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/mneumann-dev"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="48" width="48"></a>
+<a href="https://twitter.com/krabfish"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="48" width="48"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krabfish"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="48" width="48"></a>
 </p>
 
 
 #### Stats
-<img src="https://komarev.com/ghpvc/?username=mneumann-dev" alt="mneumann-dev" />
+<img src="https://komarev.com/ghpvc/?username=krabfish" alt="krabfish" />
 
-![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=mneumann-dev&show_icons=true)
+![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=krabfish&show_icons=true)
 
 ## Thanks for stopping bye! 👋🏻
