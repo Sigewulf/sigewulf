@@ -27,8 +27,8 @@ As a freelance developer I am alway's looking for new and exciting career oppurt
 
 
 #### Stats
-<img src="https://komarev.com/ghpvc/?username=krabfish" alt="krabfish" />
+<img src="https://komarev.com/ghpvc/?username=neumannmk" alt="Michael Neumann" />
 
-![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=krabfish&show_icons=true)
+![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=neumannmk&show_icons=true)
 
 ## Thanks for stopping bye! 👋🏻
