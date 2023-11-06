@@ -14,24 +14,12 @@ Front-End developer with a touch of server-side flavor and a passion to create s
 ![markdown-shield]
 ![shell-shield]
 
-## Where to find me?
-[![Facebook][facebook-shield]][facebook-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Dev.to][dev-shield]][dev-shield]
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=sigewulf" alt="Michael Neumann" />
 
 ![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=sigewulf&show_icons=true)
 
-[facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[facebook-url]: https://www.facebook.com/profile.php?id=100079913800261
-
-[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: https://twitter.com/sigewulf
-
-[dev-shield]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
-[dev-shield]: https://dev.to/sigewulf
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
