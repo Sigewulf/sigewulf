@@ -18,7 +18,7 @@ Front-End developer with a touch of server-side flavor and a passion to create s
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=kroanvor" alt="Michael Neumann" />
 
-![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=sigewulf&show_icons=true)
+![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=kroanvor&show_icons=true)
 
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
